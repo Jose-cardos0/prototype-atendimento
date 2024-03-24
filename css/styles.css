@@ -1,0 +1,19 @@
+.fonte-azul {
+    color: blue;
+}
+
+
+h1 {
+    border-bottom-style: inset;
+}
+
+pre {
+    font-size: 1.2em;
+}
+
+.oculta { display: none;}
+
+.exibe { display: inline;}
+
+.italico { font-style: italic;}
+
